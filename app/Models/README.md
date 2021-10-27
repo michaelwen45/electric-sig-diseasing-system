@@ -6,4 +6,7 @@ This code was written between 2014-2017 and demonstrates experience with <b>Lara
 
 I started the software development department at REM and built everything from the ground up after getting offered a full time position as the first software developer at the company. I was able to build this software and grow the department with no development mentorship. Only motivation, determination, hard work, and a lot of self education.
 
-My actual development skills, organizational skills, and knowledge have greatly improved since this code. For a more accurate code quality representation, see my more recent React/Angular/Node repos. I have also since learned about NoSQL/document store which would have been awesome for some pieces of this project, but, at the time I did not know it!
+For a more up recent works see my React/Angular/Node repos.
+
+# For the list of features that were implemented check out:
+https://docs.google.com/document/d/1gTJL3XtYsoJpMQOoxYCOGIwKbQ1f5ikrwEb5PirIAT4/edit?usp=sharing
